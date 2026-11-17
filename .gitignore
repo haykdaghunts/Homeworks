@@ -1,6 +1,9 @@
 # course materials (not ours to redistribute)
-DS-223-Bass-model*.pdf
-Homework-on-Bass-Model.pdf
+**/DS-223-*.pdf
+**/Homework-on-Bass-Model.pdf
+**/Homework 2.pdf
 __pycache__/
 .ipynb_checkpoints/
+.venv/
+venv/
 .DS_Store

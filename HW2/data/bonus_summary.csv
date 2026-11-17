@@ -1,0 +1,6 @@
+Configuration,Mean regret,Median regret,Worst regret,Runs stuck (regret > 1000)
+"E-Greedy, eps=1/t",1019.7,21.5,20013.0,4
+"E-Greedy, eps=5/t (ours)",70.8,70.5,127.0,0
+"TS, prior N(0,1)",342.2,64.0,2866.0,2
+"TS, prior N(0,10^2) (ours)",32.1,31.0,51.0,0
+UCB1,36.7,36.0,52.0,0
